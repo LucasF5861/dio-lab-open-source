@@ -1,0 +1,2 @@
+n1 = int(input("qual é seu nome"))
+print n1
